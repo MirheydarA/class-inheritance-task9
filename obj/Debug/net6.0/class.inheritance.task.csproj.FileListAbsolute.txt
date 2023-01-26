@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\class.inheritance.task\bin\Debug\net6.0\class.inheritance.task.exe
+C:\Users\ASUS\source\repos\class.inheritance.task\bin\Debug\net6.0\class.inheritance.task.deps.json
+C:\Users\ASUS\source\repos\class.inheritance.task\bin\Debug\net6.0\class.inheritance.task.runtimeconfig.json
+C:\Users\ASUS\source\repos\class.inheritance.task\bin\Debug\net6.0\class.inheritance.task.dll
+C:\Users\ASUS\source\repos\class.inheritance.task\bin\Debug\net6.0\class.inheritance.task.pdb
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.dll
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\refint\class.inheritance.task.dll
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.pdb
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\class.inheritance.task.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\class.inheritance.task\obj\Debug\net6.0\ref\class.inheritance.task.dll
